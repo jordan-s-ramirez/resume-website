@@ -16,3 +16,6 @@ The main UI was mostly developed using [material UI](https://mui.com/).  In addi
  2. Use ``yarn add`` to import the nessessary packages.
  3. Inside ``src/assets`` you can customize the template for the resume website
  4. Once finished, call ``yarn build`` to export the function as a static website, public folder
+
+## Video Demo
+https://youtu.be/WopBI1tO6sI
