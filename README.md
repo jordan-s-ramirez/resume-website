@@ -1,7 +1,7 @@
 # Resume website
 ## About
 This is a clean resume website template for anyone to use. 
-
+![Resume Website](./image.PNG)
  ## Features
  * Contact page, using getform.io
  * About me section, for your information
