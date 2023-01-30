@@ -1,0 +1,48 @@
+{
+  "firstName" : "Ash",
+  "lastName" : "Ketchum",
+  "degree" : "Masters Pokemon Biology",
+  "university" : "Oak University",
+  "location" : "Pallet Town, Kanto",
+  "email": "best.pokemon.trainer@gmail.com",
+  "getformEndPoint": "https://getform.io",
+  "aboutMe": "I am Ash Ketchum, a Pokémon Trainer from the town of Pallet in the Kanto region. My dream since I was a young boy was to become a Pokémon Master and travel the world with my Pokémon by my side. I started my journey at the age of 10 and have been traveling from region to region ever since, always seeking to improve my skills as a trainer and catch new and exciting Pokémon. I am known for my determination and never-give-up attitude, and I always strive to be the best trainer I can be. With my trusty companion Pikachu by my side, I am on an ongoing quest to become a Pokémon Master and fulfill my childhood dream.",
+  "workExp" : [
+    {
+      "title": "Champion",
+      "company": "Orange League",
+      "time": "May 2022 - Now",
+      "infoPoints": [
+        "Battled very hard with Pikachu",
+        "Champion during the Orange Islands arc in the original saga.",
+        "Besting Drake in battle was one of my best moments as a Trainer and cemented Pikachu's spot as his secret ace"
+      ]
+    },
+    {
+      "title": "Top 8 - Contestant",
+      "company": "Johto League",
+      "time": "May 2021 - Aug 2021",
+      "infoPoints": [
+        "Battled very hard with Pikachu", 
+        "Trained pokemon with elixers", 
+        "Steamlined evolutions"
+      ]
+    },
+    {
+      "title": "Top 16 - Contestant",
+      "company": "Paragon Flow Creative",
+      "time": "Dec 2019 - Jan 2022",
+      "infoPoints": [
+        "Battled very hard with Pikachu", 
+        "Trained Pokemon"
+      ]
+    }
+  ],
+  "skills": {
+    "hardSkills": {
+      "techicalSkills": ["Pokemon Evolutions", "Pokemon Battling", "Electric Type"],
+      "languages": ["Neural Network for Pokemon"]
+    },
+    "softSkills": ["Agile","Integrity", "Dependability", "Effective Communication", "Opened-mindedness", "Teamwork", "Problem Solving", "Critical Thinking", "Adaptability", "Orginization", "Cross Functional"]
+  }
+}
