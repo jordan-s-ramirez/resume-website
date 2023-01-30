@@ -13,7 +13,7 @@ The main UI was mostly developed using [material UI](https://mui.com/).  In addi
 ## How to configure
 
  1. Clone the repository
- 2. Use ``yarn add`` to import the nessessary packages.
+ 2. Use ``yarn`` to import the nessessary packages.
  3. Inside ``src/assets`` you can customize the template for the resume website
  4. Once finished, call ``yarn build`` to export the function as a static website, public folder
 
